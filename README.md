@@ -4,6 +4,14 @@
 
     https://nodejs.org/en/download
 
+# Clone source code
+
+    git clone https://github.com/tonytran88/oven-backend-test.git
+
+# CD to root folder
+
+    cd oven-backend-test
+
 # Install package
 
     npm install
